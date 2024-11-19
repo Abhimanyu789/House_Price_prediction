@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ### Boston House Pricing Prediction
 
 ### Software And Tools Requirements
@@ -12,3 +13,8 @@ Create a new environment
 ```
 conda create -p venv python==3.7 -y
 ```
+||||||| empty tree
+=======
+# House_Price_prediction
+This repository houses an end-to-end ML project to predict prices on a Boston house prices dataset
+>>>>>>> 5124004edd7b935ea069b9265a49c6a0a3fd48b7
